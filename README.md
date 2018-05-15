@@ -18,7 +18,7 @@
 ### Reference
 > - [https://github.com/Taeung/git-training](https://github.com/Taeung/git-training)
 > - [https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html](https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html)
-> -[https://mylko72.gitbooks.io/git/content/branch/branch_type.html](https://mylko72.gitbooks.io/git/content/branch/branch_type.html)
+> - [https://mylko72.gitbooks.io/git/content/branch/branch_type.html](https://mylko72.gitbooks.io/git/content/branch/branch_type.html)
 > - [http://blog.appkr.kr/learn-n-think/comparing-workflows/](http://blog.appkr.kr/learn-n-think/comparing-workflows/)
 > - [https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 > - [https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
